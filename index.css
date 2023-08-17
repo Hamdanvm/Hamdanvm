@@ -1,0 +1,255 @@
+*.header{
+    height: 160px;
+    width: 100%;
+    z-index: 100;
+   
+    
+  
+  
+    
+}
+.body{
+    width: 100%;
+    right: 0;
+    margin right: ;: 0%;
+}
+
+
+.h-top-section{
+    height: 100px;
+    width: 100%;
+    background-color: #232222;
+    display: flex;
+    align-items: center;
+    
+}
+.warning-banner{
+    height: 50px;
+    width: 80%;
+    background-color: white;
+    margin-left: 120px;
+    display: flex;
+    align-items: center;
+    
+}
+.warning-word{
+    font-family: Oswald;
+    font-size: 20px;
+    color: #000;
+    line-height: 30px;
+    font-weight: 400;
+    margin: 0 auto;
+
+}
+.h-bottom-section{
+   
+    height: 80px;
+    width: 100%;
+   
+    display: flex;
+    align-items: center;
+   
+    
+   
+}
+.left-section{
+    display: flex;
+    align-items: center;
+    
+    
+}
+.ignite-pic{
+    height: 60px;
+    margin-left: 20px;
+    cursor: pointer;
+   
+   
+    
+}
+.aboutus{
+   font-family: oswald;
+   font-size: 16px;
+   margin-left: 30px;
+   color: #000;
+   cursor: pointer;
+  
+   
+   
+}
+.nicotine{
+    font-family: oswald;
+    font-size: 16px;
+    margin-left: 30px;
+    color: #000;
+    cursor: pointer;
+  
+   
+}
+.middle-section{
+    display: flex;
+    align-items: center;
+    margin-left: 39px;
+}
+.spirits{
+    font-family: oswald;
+    font-size: 16px;
+    margin-left: 30px;
+    color: #000;
+    cursor: pointer;
+
+}
+.apparel{
+    font-family: oswald;
+    font-size: 16px;
+    margin-left: 30px;
+    color: #000;
+    cursor: pointer;
+
+}
+.right-section{
+    display: flex;
+    align-items: center;
+    margin-left: 60px;
+    
+
+        
+    }
+
+.store-locater{
+    font-family: oswald;
+    font-size: 16px;
+    margin-left: 30px;
+    color: #000;
+    cursor: pointer;
+
+}
+.retailer{
+    font-family: oswald;
+    font-size: 16px;
+    margin-left: 30px;
+    color: #000;
+    cursor: pointer;
+}
+.search{
+    margin-left: 30px;
+    border-radius: 10px;
+    height: 25px;
+    border-color: gray;
+    border-style: solid;
+}
+.dan-div{
+ margin-top:10px;
+ width: 100%;
+ display: block;
+ 
+}
+.info-div{
+    width: 100%;
+    height: 500px;
+ 
+
+   
+}
+.dan{
+    width: 100%;
+}
+    
+
+
+.life{
+    padding-top: 26px;
+    margin-left: 362px;
+    font-size: 63px;
+    margin-bottom: -30px;
+    font-family: oswald;
+}
+.explore{
+    font-size: 23px;
+    font-weight: 400;
+    margin-left: 405px;
+    font-family: oswald;
+}
+.pic-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    margin-left: 30px;
+    margin-right: 0px;
+    
+}
+.vape{
+   margin-left: 67px;
+    font-family: 'Oswald';
+    font-size: 18px;
+}
+
+.spiri{
+    margin-left: 67px;
+    font-family: 'Oswald';
+    font-size: 18px;
+
+}
+.setup{
+    margin-left: 67px;
+    font-family: 'Oswald';
+    font-size: 18px;
+
+}
+.zero{
+    margin-left: 67px;
+    font-family: 'Oswald';
+    font-size: 18px;
+    
+    
+}
+.dan-info{
+    background-color: #000;
+    height: 600px;
+    width: 100%;
+    display: flex;
+    color: white;
+}
+.dan-left{
+    width: 50%;
+    height: 462px;
+}
+.dan-right{
+    width: 50%;
+    height: 462px;
+  
+}
+.text-1{
+    margin-left: 116px;
+    padding-top: 44px;
+    font-family: oswald;
+    font-size: 50px;
+}
+.text-2{
+    margin-left: 113px;
+    font-family: 'Oswald';
+    font-size: 16px;
+    margin-right: 21px;
+}
+
+   
+
+.order-copy{
+    font-family: oswald;
+    font-size: 15px;
+    background-color: green;
+    height: 38px;
+    width: 147px;
+    border-radius: 34px;
+    margin-left: 105px;
+    cursor: pointer;
+}
+.button-2{
+    padding-top: 8px;
+}
+.dan-colo{
+      width: 448px;
+    margin-left: 78px;
+}
+.app{
+
+}
+
